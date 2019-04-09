@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "763d99ab31d79014da8639ab687edc76",
-    "url": "/budget-manager/static/media/calendar-number.763d99ab.svg"
+    "revision": "c4148bfcbcc1abb2ddbbef174439dc5d",
+    "url": "/budget-manager/static/media/calendar.c4148bfc.svg"
   },
   {
-    "revision": "d4041d597e844b000148",
-    "url": "/budget-manager/static/css/main.0fdccf18.chunk.css"
+    "revision": "b3c17dcedae66a7f8432",
+    "url": "/budget-manager/static/css/main.42a95745.chunk.css"
   },
   {
     "revision": "f04dc71164354df1417e",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/pie-chart-logo.976f62d2.svg"
   },
   {
-    "revision": "1028b2eb059a5a58b2a3",
-    "url": "/budget-manager/static/js/2.5e56c92e.chunk.js"
+    "revision": "bca286a3d8bd6c8eac5e",
+    "url": "/budget-manager/static/js/2.eec4ca8a.chunk.js"
   },
   {
     "revision": "210aad6494b434a0c18f0fae8367c21c",
@@ -26,6 +26,10 @@ self.__precacheManifest = [
   {
     "revision": "9ca6ab3bfd6bbf00d33339721439b029",
     "url": "/budget-manager/static/media/cross-white.9ca6ab3b.svg"
+  },
+  {
+    "revision": "0ebebd45a566793c2444d01bcfcff373",
+    "url": "/budget-manager/static/media/minus.0ebebd45.svg"
   },
   {
     "revision": "773dcb53a49a6ea9ac49194e947207d7",
@@ -44,12 +48,12 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/profile.a2c06f93.svg"
   },
   {
-    "revision": "c4148bfcbcc1abb2ddbbef174439dc5d",
-    "url": "/budget-manager/static/media/calendar.c4148bfc.svg"
+    "revision": "b3c17dcedae66a7f8432",
+    "url": "/budget-manager/static/js/main.8a7d5b44.chunk.js"
   },
   {
-    "revision": "d4041d597e844b000148",
-    "url": "/budget-manager/static/js/main.671fe21f.chunk.js"
+    "revision": "763d99ab31d79014da8639ab687edc76",
+    "url": "/budget-manager/static/media/calendar-number.763d99ab.svg"
   },
   {
     "revision": "2e7c669177c13a55f839f3e624f91174",
@@ -88,11 +92,11 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/hieroglyph.e7121824.svg"
   },
   {
-    "revision": "1028b2eb059a5a58b2a3",
+    "revision": "bca286a3d8bd6c8eac5e",
     "url": "/budget-manager/static/css/2.d2e961b6.chunk.css"
   },
   {
-    "revision": "d1e00017bbf26855446aff4c11ee2bd6",
+    "revision": "ce93ebad88edb0b4fdde375053eca977",
     "url": "/budget-manager/index.html"
   }
 ];
