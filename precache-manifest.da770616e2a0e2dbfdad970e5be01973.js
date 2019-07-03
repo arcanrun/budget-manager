@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/calendar-number.763d99ab.svg"
   },
   {
-    "revision": "91835d1e7fe4842eb1ae",
+    "revision": "27cd71a9d6b5544074fb",
     "url": "/budget-manager/static/css/main.237e9fce.chunk.css"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/calendar.c4148bfc.svg"
   },
   {
-    "revision": "91835d1e7fe4842eb1ae",
-    "url": "/budget-manager/static/js/main.3d799869.chunk.js"
+    "revision": "27cd71a9d6b5544074fb",
+    "url": "/budget-manager/static/js/main.4ac380f6.chunk.js"
   },
   {
     "revision": "2e7c669177c13a55f839f3e624f91174",
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/css/2.55b6d123.chunk.css"
   },
   {
-    "revision": "6cea6399352554e0854227e8399b7124",
+    "revision": "429a6a63713d382b8d00a0a5a3a889a9",
     "url": "/budget-manager/index.html"
   }
 ];
