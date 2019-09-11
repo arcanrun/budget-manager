@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/money-bag.773dcb53.svg"
   },
   {
-    "revision": "1ee30299520e38c5ea21",
+    "revision": "daf75c9f82eae0a044b9",
     "url": "/budget-manager/static/css/main.f0bb63ed.chunk.css"
   },
   {
@@ -72,24 +72,24 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-solid-900.3ded831d.woff"
   },
   {
-    "revision": "5e8aa9ea0ebcd2218178f554cdd8e6b0",
-    "url": "/budget-manager/static/media/fa-brands-400.5e8aa9ea.ttf"
-  },
-  {
     "revision": "14c590d124662eb50efa4c00f027b79c",
     "url": "/budget-manager/static/media/fa-brands-400.14c590d1.eot"
+  },
+  {
+    "revision": "5e8aa9ea0ebcd2218178f554cdd8e6b0",
+    "url": "/budget-manager/static/media/fa-brands-400.5e8aa9ea.ttf"
   },
   {
     "revision": "95f13e0be408d117bd3d9b366084a3ef",
     "url": "/budget-manager/static/media/fa-regular-400.95f13e0b.svg"
   },
   {
-    "revision": "42e1fbd2cf655a0b44a2dfae9ca2f8c1",
-    "url": "/budget-manager/static/media/fa-solid-900.42e1fbd2.eot"
-  },
-  {
     "revision": "896e20e26ad07dc63c9526ed814117e9",
     "url": "/budget-manager/static/media/fa-solid-900.896e20e2.ttf"
+  },
+  {
+    "revision": "42e1fbd2cf655a0b44a2dfae9ca2f8c1",
+    "url": "/budget-manager/static/media/fa-solid-900.42e1fbd2.eot"
   },
   {
     "revision": "bfa9c38bd6081dafe7278dedc4aad1d9",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-solid-900.6ed5e3bc.svg"
   },
   {
-    "revision": "1ee30299520e38c5ea21",
-    "url": "/budget-manager/static/js/main.f0392a56.chunk.js"
+    "revision": "daf75c9f82eae0a044b9",
+    "url": "/budget-manager/static/js/main.313b5fe3.chunk.js"
   },
   {
     "revision": "2cfec6c1b527f7fbca5e77263b0363aa",
@@ -196,7 +196,7 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/css/2.f333a2c4.chunk.css"
   },
   {
-    "revision": "b97d6ed4504f403b37207259dbf730ec",
+    "revision": "450981c12532a55b2eb6a0eff79c20c1",
     "url": "/budget-manager/index.html"
   }
 ];
