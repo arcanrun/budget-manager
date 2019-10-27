@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/money-bag.773dcb53.svg"
   },
   {
-    "revision": "d8b4dd6f078c7ba0b162",
-    "url": "/budget-manager/static/css/main.e078b0b3.chunk.css"
+    "revision": "bcd56ec788ccafb3f798",
+    "url": "/budget-manager/static/css/main.7d1ff705.chunk.css"
   },
   {
     "revision": "f04dc71164354df1417e",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/money-flow-loader.68fc7de3.svg"
   },
   {
-    "revision": "8af84604dbab7b542009",
-    "url": "/budget-manager/static/js/2.9f684dd9.chunk.js"
+    "revision": "b7b4dfe2ace271d1f507",
+    "url": "/budget-manager/static/js/2.0bbe95aa.chunk.js"
   },
   {
     "revision": "210aad6494b434a0c18f0fae8367c21c",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/plus.38abd07a.svg"
   },
   {
-    "revision": "8dab467d1c9d8665eab577e474c72de2",
-    "url": "/budget-manager/static/media/transfer_white.8dab467d.svg"
-  },
-  {
     "revision": "0ebebd45a566793c2444d01bcfcff373",
     "url": "/budget-manager/static/media/minus.0ebebd45.svg"
+  },
+  {
+    "revision": "8dab467d1c9d8665eab577e474c72de2",
+    "url": "/budget-manager/static/media/transfer_white.8dab467d.svg"
   },
   {
     "revision": "ac21cac3f22cc9642f5af32e0c750797",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-solid-900.6ed5e3bc.svg"
   },
   {
-    "revision": "d8b4dd6f078c7ba0b162",
-    "url": "/budget-manager/static/js/main.6465de5c.chunk.js"
+    "revision": "bcd56ec788ccafb3f798",
+    "url": "/budget-manager/static/js/main.9a90838f.chunk.js"
   },
   {
     "revision": "2cfec6c1b527f7fbca5e77263b0363aa",
@@ -192,11 +192,11 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/rich_4.c4ed42f0.svg"
   },
   {
-    "revision": "8af84604dbab7b542009",
+    "revision": "b7b4dfe2ace271d1f507",
     "url": "/budget-manager/static/css/2.de5abbc0.chunk.css"
   },
   {
-    "revision": "f10a83d5328d23d76fe791c1f4b93e41",
+    "revision": "985c567d4ced6f8d1e45f22461c25edb",
     "url": "/budget-manager/index.html"
   }
 ];
