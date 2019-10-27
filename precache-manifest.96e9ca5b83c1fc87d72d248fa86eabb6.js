@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/money-bag.773dcb53.svg"
   },
   {
-    "revision": "bcd56ec788ccafb3f798",
+    "revision": "25df837d6b3eb21c0f36",
     "url": "/budget-manager/static/css/main.7d1ff705.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/money-flow-loader.68fc7de3.svg"
   },
   {
-    "revision": "b7b4dfe2ace271d1f507",
-    "url": "/budget-manager/static/js/2.0bbe95aa.chunk.js"
+    "revision": "7330eb104030fe0d6e55",
+    "url": "/budget-manager/static/js/2.eabf18d1.chunk.js"
   },
   {
     "revision": "210aad6494b434a0c18f0fae8367c21c",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/cross-white.9ca6ab3b.svg"
   },
   {
-    "revision": "38abd07a31646eacd551f3715421da7f",
-    "url": "/budget-manager/static/media/plus.38abd07a.svg"
-  },
-  {
     "revision": "0ebebd45a566793c2444d01bcfcff373",
     "url": "/budget-manager/static/media/minus.0ebebd45.svg"
+  },
+  {
+    "revision": "38abd07a31646eacd551f3715421da7f",
+    "url": "/budget-manager/static/media/plus.38abd07a.svg"
   },
   {
     "revision": "8dab467d1c9d8665eab577e474c72de2",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-solid-900.6ed5e3bc.svg"
   },
   {
-    "revision": "bcd56ec788ccafb3f798",
-    "url": "/budget-manager/static/js/main.9a90838f.chunk.js"
+    "revision": "25df837d6b3eb21c0f36",
+    "url": "/budget-manager/static/js/main.c4550fc5.chunk.js"
   },
   {
     "revision": "2cfec6c1b527f7fbca5e77263b0363aa",
@@ -192,11 +192,11 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/rich_4.c4ed42f0.svg"
   },
   {
-    "revision": "b7b4dfe2ace271d1f507",
+    "revision": "7330eb104030fe0d6e55",
     "url": "/budget-manager/static/css/2.de5abbc0.chunk.css"
   },
   {
-    "revision": "985c567d4ced6f8d1e45f22461c25edb",
+    "revision": "06682bd87329cb6bb7ed65d736946d57",
     "url": "/budget-manager/index.html"
   }
 ];
