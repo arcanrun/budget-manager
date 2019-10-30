@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/money-bag.773dcb53.svg"
   },
   {
-    "revision": "9a30098bce2d8c87a114",
+    "revision": "638005946c2812288835",
     "url": "/budget-manager/static/css/main.7d1ff705.chunk.css"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/cross-white.9ca6ab3b.svg"
   },
   {
-    "revision": "38abd07a31646eacd551f3715421da7f",
-    "url": "/budget-manager/static/media/plus.38abd07a.svg"
-  },
-  {
     "revision": "0ebebd45a566793c2444d01bcfcff373",
     "url": "/budget-manager/static/media/minus.0ebebd45.svg"
+  },
+  {
+    "revision": "38abd07a31646eacd551f3715421da7f",
+    "url": "/budget-manager/static/media/plus.38abd07a.svg"
   },
   {
     "revision": "8dab467d1c9d8665eab577e474c72de2",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-regular-400.5623624d.woff"
   },
   {
-    "revision": "aa66d0e0e38c75666e98db33abae955e",
-    "url": "/budget-manager/static/media/fa-regular-400.aa66d0e0.eot"
-  },
-  {
     "revision": "285a9d2a28886ad64c4e45cbd733cf7c",
     "url": "/budget-manager/static/media/fa-regular-400.285a9d2a.ttf"
+  },
+  {
+    "revision": "aa66d0e0e38c75666e98db33abae955e",
+    "url": "/budget-manager/static/media/fa-regular-400.aa66d0e0.eot"
   },
   {
     "revision": "3e1b2a654a784ceb385157140b4ccd71",
@@ -72,24 +72,24 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-solid-900.3ded831d.woff"
   },
   {
-    "revision": "14c590d124662eb50efa4c00f027b79c",
-    "url": "/budget-manager/static/media/fa-brands-400.14c590d1.eot"
-  },
-  {
     "revision": "5e8aa9ea0ebcd2218178f554cdd8e6b0",
     "url": "/budget-manager/static/media/fa-brands-400.5e8aa9ea.ttf"
+  },
+  {
+    "revision": "14c590d124662eb50efa4c00f027b79c",
+    "url": "/budget-manager/static/media/fa-brands-400.14c590d1.eot"
   },
   {
     "revision": "95f13e0be408d117bd3d9b366084a3ef",
     "url": "/budget-manager/static/media/fa-regular-400.95f13e0b.svg"
   },
   {
-    "revision": "896e20e26ad07dc63c9526ed814117e9",
-    "url": "/budget-manager/static/media/fa-solid-900.896e20e2.ttf"
-  },
-  {
     "revision": "42e1fbd2cf655a0b44a2dfae9ca2f8c1",
     "url": "/budget-manager/static/media/fa-solid-900.42e1fbd2.eot"
+  },
+  {
+    "revision": "896e20e26ad07dc63c9526ed814117e9",
+    "url": "/budget-manager/static/media/fa-solid-900.896e20e2.ttf"
   },
   {
     "revision": "bfa9c38bd6081dafe7278dedc4aad1d9",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-solid-900.6ed5e3bc.svg"
   },
   {
-    "revision": "9a30098bce2d8c87a114",
-    "url": "/budget-manager/static/js/main.2f93ea84.chunk.js"
+    "revision": "638005946c2812288835",
+    "url": "/budget-manager/static/js/main.7b883ae5.chunk.js"
   },
   {
     "revision": "2cfec6c1b527f7fbca5e77263b0363aa",
@@ -196,7 +196,7 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/css/2.de5abbc0.chunk.css"
   },
   {
-    "revision": "93ca4b284775eecf4032e398a8408ba3",
+    "revision": "490ddeae577354dfaec8639ac0279c36",
     "url": "/budget-manager/index.html"
   }
 ];
