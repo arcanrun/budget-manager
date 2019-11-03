@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/money-bag.773dcb53.svg"
   },
   {
-    "revision": "1aa96ec8bcf510430e55",
-    "url": "/budget-manager/static/css/main.3db0bb63.chunk.css"
+    "revision": "9f25cd0c464a9d3fd177",
+    "url": "/budget-manager/static/css/main.c5903733.chunk.css"
   },
   {
     "revision": "f04dc71164354df1417e",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/money-flow-loader.68fc7de3.svg"
   },
   {
-    "revision": "6d353f4a2cb4b4e1f977",
-    "url": "/budget-manager/static/js/2.1d4d06e1.chunk.js"
+    "revision": "6b86c4d0cd6eeeab504c",
+    "url": "/budget-manager/static/js/2.b1cad25f.chunk.js"
   },
   {
     "revision": "210aad6494b434a0c18f0fae8367c21c",
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-solid-900.3ded831d.woff"
   },
   {
-    "revision": "5e8aa9ea0ebcd2218178f554cdd8e6b0",
-    "url": "/budget-manager/static/media/fa-brands-400.5e8aa9ea.ttf"
-  },
-  {
     "revision": "14c590d124662eb50efa4c00f027b79c",
     "url": "/budget-manager/static/media/fa-brands-400.14c590d1.eot"
+  },
+  {
+    "revision": "5e8aa9ea0ebcd2218178f554cdd8e6b0",
+    "url": "/budget-manager/static/media/fa-brands-400.5e8aa9ea.ttf"
   },
   {
     "revision": "95f13e0be408d117bd3d9b366084a3ef",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-solid-900.6ed5e3bc.svg"
   },
   {
-    "revision": "1aa96ec8bcf510430e55",
-    "url": "/budget-manager/static/js/main.905ebfcf.chunk.js"
+    "revision": "9f25cd0c464a9d3fd177",
+    "url": "/budget-manager/static/js/main.990872c3.chunk.js"
   },
   {
     "revision": "2cfec6c1b527f7fbca5e77263b0363aa",
@@ -192,11 +192,11 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/rich_4.c4ed42f0.svg"
   },
   {
-    "revision": "6d353f4a2cb4b4e1f977",
-    "url": "/budget-manager/static/css/2.de5abbc0.chunk.css"
+    "revision": "6b86c4d0cd6eeeab504c",
+    "url": "/budget-manager/static/css/2.2c561197.chunk.css"
   },
   {
-    "revision": "7ce8176371741f0ddf97723cb676b0ae",
+    "revision": "645ca00058ab9adf163d1601b2f946c8",
     "url": "/budget-manager/index.html"
   }
 ];
