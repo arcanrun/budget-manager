@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/money-bag.773dcb53.svg"
   },
   {
-    "revision": "d998a9b6d7ae04c8ea6b",
+    "revision": "04f32c363e2d0b8e7991",
     "url": "/budget-manager/static/css/main.c5903733.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/money-flow-loader.68fc7de3.svg"
   },
   {
-    "revision": "4bac26f59eb3e51abf25",
-    "url": "/budget-manager/static/js/2.97730f7c.chunk.js"
+    "revision": "bdafc9e63a733c45b341",
+    "url": "/budget-manager/static/js/2.1ca2160e.chunk.js"
   },
   {
     "revision": "210aad6494b434a0c18f0fae8367c21c",
@@ -28,80 +28,80 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/cross-white.9ca6ab3b.svg"
   },
   {
-    "revision": "38abd07a31646eacd551f3715421da7f",
-    "url": "/budget-manager/static/media/plus.38abd07a.svg"
-  },
-  {
     "revision": "0ebebd45a566793c2444d01bcfcff373",
     "url": "/budget-manager/static/media/minus.0ebebd45.svg"
+  },
+  {
+    "revision": "38abd07a31646eacd551f3715421da7f",
+    "url": "/budget-manager/static/media/plus.38abd07a.svg"
   },
   {
     "revision": "8dab467d1c9d8665eab577e474c72de2",
     "url": "/budget-manager/static/media/transfer_white.8dab467d.svg"
   },
   {
-    "revision": "ac21cac3f22cc9642f5af32e0c750797",
-    "url": "/budget-manager/static/media/fa-regular-400.ac21cac3.woff2"
+    "revision": "f5f2566b93e89391da4db79462b8078b",
+    "url": "/budget-manager/static/media/fa-regular-400.f5f2566b.woff2"
   },
   {
-    "revision": "5623624dd1b017c66c29d1ac69cdcfa3",
-    "url": "/budget-manager/static/media/fa-regular-400.5623624d.woff"
+    "revision": "c4f508e7c4f01a9eeba7f08155cde04e",
+    "url": "/budget-manager/static/media/fa-regular-400.c4f508e7.woff"
   },
   {
-    "revision": "aa66d0e0e38c75666e98db33abae955e",
-    "url": "/budget-manager/static/media/fa-regular-400.aa66d0e0.eot"
+    "revision": "65b286af947c0d982ca01b40e1fcab38",
+    "url": "/budget-manager/static/media/fa-regular-400.65b286af.ttf"
   },
   {
-    "revision": "285a9d2a28886ad64c4e45cbd733cf7c",
-    "url": "/budget-manager/static/media/fa-regular-400.285a9d2a.ttf"
+    "revision": "c1a866ec0e04a5e1915b41fcf261457c",
+    "url": "/budget-manager/static/media/fa-regular-400.c1a866ec.eot"
   },
   {
-    "revision": "3e1b2a654a784ceb385157140b4ccd71",
-    "url": "/budget-manager/static/media/fa-brands-400.3e1b2a65.woff2"
+    "revision": "cccc9d29470e879e40eb70249d9a2705",
+    "url": "/budget-manager/static/media/fa-brands-400.cccc9d29.woff2"
   },
   {
-    "revision": "d6d8d5da9214dc7d46b297672a602d55",
-    "url": "/budget-manager/static/media/fa-solid-900.d6d8d5da.woff2"
+    "revision": "44d537ab79f921fde5a28b2c1636f397",
+    "url": "/budget-manager/static/media/fa-solid-900.44d537ab.woff2"
   },
   {
-    "revision": "df02c782834b113d605d8329368737b4",
-    "url": "/budget-manager/static/media/fa-brands-400.df02c782.woff"
+    "revision": "c5e0f14f88a828261ba01558ce2bf26f",
+    "url": "/budget-manager/static/media/fa-brands-400.c5e0f14f.woff"
   },
   {
-    "revision": "3ded831d708bf90b2da86756551b5c1c",
-    "url": "/budget-manager/static/media/fa-solid-900.3ded831d.woff"
+    "revision": "333bae208dc363746961b234ff6c2500",
+    "url": "/budget-manager/static/media/fa-solid-900.333bae20.woff"
   },
   {
-    "revision": "14c590d124662eb50efa4c00f027b79c",
-    "url": "/budget-manager/static/media/fa-brands-400.14c590d1.eot"
+    "revision": "5063b105c7646c8043d58c5289f02cca",
+    "url": "/budget-manager/static/media/fa-brands-400.5063b105.eot"
   },
   {
-    "revision": "5e8aa9ea0ebcd2218178f554cdd8e6b0",
-    "url": "/budget-manager/static/media/fa-brands-400.5e8aa9ea.ttf"
+    "revision": "06147b6cd88c7346cecd1edd060cd5de",
+    "url": "/budget-manager/static/media/fa-brands-400.06147b6c.ttf"
   },
   {
-    "revision": "95f13e0be408d117bd3d9b366084a3ef",
-    "url": "/budget-manager/static/media/fa-regular-400.95f13e0b.svg"
+    "revision": "7b9568e6389b1f8ae0902cd39665fc1e",
+    "url": "/budget-manager/static/media/fa-regular-400.7b9568e6.svg"
   },
   {
-    "revision": "42e1fbd2cf655a0b44a2dfae9ca2f8c1",
-    "url": "/budget-manager/static/media/fa-solid-900.42e1fbd2.eot"
+    "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
+    "url": "/budget-manager/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
-    "revision": "896e20e26ad07dc63c9526ed814117e9",
-    "url": "/budget-manager/static/media/fa-solid-900.896e20e2.ttf"
+    "revision": "0bff33a5fd7ec390235476b4859747a0",
+    "url": "/budget-manager/static/media/fa-solid-900.0bff33a5.ttf"
   },
   {
-    "revision": "bfa9c38bd6081dafe7278dedc4aad1d9",
-    "url": "/budget-manager/static/media/fa-brands-400.bfa9c38b.svg"
+    "revision": "a9c4bb7348f42626454c988dbde1d0a0",
+    "url": "/budget-manager/static/media/fa-brands-400.a9c4bb73.svg"
   },
   {
-    "revision": "6ed5e3bc9018d2a03e2f1fadbf8a0a4a",
-    "url": "/budget-manager/static/media/fa-solid-900.6ed5e3bc.svg"
+    "revision": "c2801fb415f03c7b170934769d7b5397",
+    "url": "/budget-manager/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
-    "revision": "d998a9b6d7ae04c8ea6b",
-    "url": "/budget-manager/static/js/main.6a36fb18.chunk.js"
+    "revision": "04f32c363e2d0b8e7991",
+    "url": "/budget-manager/static/js/main.a6b5111f.chunk.js"
   },
   {
     "revision": "2cfec6c1b527f7fbca5e77263b0363aa",
@@ -192,11 +192,11 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/rich_4.c4ed42f0.svg"
   },
   {
-    "revision": "4bac26f59eb3e51abf25",
-    "url": "/budget-manager/static/css/2.2c561197.chunk.css"
+    "revision": "bdafc9e63a733c45b341",
+    "url": "/budget-manager/static/css/2.086e2e97.chunk.css"
   },
   {
-    "revision": "8c6f9d3f3fa5eee1541442ab378e4d82",
+    "revision": "546ec8d04a81137a0c52ff08426102ff",
     "url": "/budget-manager/index.html"
   }
 ];
