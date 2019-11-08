@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/money-bag.773dcb53.svg"
   },
   {
-    "revision": "ff462e84ddebc6c2bdca",
+    "revision": "e7a13ee569209ced9691",
     "url": "/budget-manager/static/css/main.c5903733.chunk.css"
   },
   {
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-solid-900.333bae20.woff"
   },
   {
-    "revision": "5063b105c7646c8043d58c5289f02cca",
-    "url": "/budget-manager/static/media/fa-brands-400.5063b105.eot"
-  },
-  {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
     "url": "/budget-manager/static/media/fa-brands-400.06147b6c.ttf"
+  },
+  {
+    "revision": "5063b105c7646c8043d58c5289f02cca",
+    "url": "/budget-manager/static/media/fa-brands-400.5063b105.eot"
   },
   {
     "revision": "7b9568e6389b1f8ae0902cd39665fc1e",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
-    "revision": "ff462e84ddebc6c2bdca",
-    "url": "/budget-manager/static/js/main.b7b06cd5.chunk.js"
+    "revision": "e7a13ee569209ced9691",
+    "url": "/budget-manager/static/js/main.f98bf4c1.chunk.js"
   },
   {
     "revision": "2cfec6c1b527f7fbca5e77263b0363aa",
@@ -196,7 +196,7 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/css/2.bfb35486.chunk.css"
   },
   {
-    "revision": "49db0f6cf04c72f085bd50830ed0e1ff",
+    "revision": "531c8333b93c8b7f2f4b770eec23e3e1",
     "url": "/budget-manager/index.html"
   }
 ];
