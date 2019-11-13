@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/money-bag.773dcb53.svg"
   },
   {
-    "revision": "8f465ffb9cef3105da0e",
+    "revision": "f93f3afdc65f6bc1b7ce",
     "url": "/budget-manager/static/css/main.aa7916e8.chunk.css"
   },
   {
@@ -48,20 +48,20 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-regular-400.c4f508e7.woff"
   },
   {
-    "revision": "65b286af947c0d982ca01b40e1fcab38",
-    "url": "/budget-manager/static/media/fa-regular-400.65b286af.ttf"
-  },
-  {
     "revision": "c1a866ec0e04a5e1915b41fcf261457c",
     "url": "/budget-manager/static/media/fa-regular-400.c1a866ec.eot"
   },
   {
-    "revision": "cccc9d29470e879e40eb70249d9a2705",
-    "url": "/budget-manager/static/media/fa-brands-400.cccc9d29.woff2"
+    "revision": "65b286af947c0d982ca01b40e1fcab38",
+    "url": "/budget-manager/static/media/fa-regular-400.65b286af.ttf"
   },
   {
     "revision": "44d537ab79f921fde5a28b2c1636f397",
     "url": "/budget-manager/static/media/fa-solid-900.44d537ab.woff2"
+  },
+  {
+    "revision": "cccc9d29470e879e40eb70249d9a2705",
+    "url": "/budget-manager/static/media/fa-brands-400.cccc9d29.woff2"
   },
   {
     "revision": "c5e0f14f88a828261ba01558ce2bf26f",
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-solid-900.333bae20.woff"
   },
   {
-    "revision": "5063b105c7646c8043d58c5289f02cca",
-    "url": "/budget-manager/static/media/fa-brands-400.5063b105.eot"
-  },
-  {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
     "url": "/budget-manager/static/media/fa-brands-400.06147b6c.ttf"
+  },
+  {
+    "revision": "5063b105c7646c8043d58c5289f02cca",
+    "url": "/budget-manager/static/media/fa-brands-400.5063b105.eot"
   },
   {
     "revision": "7b9568e6389b1f8ae0902cd39665fc1e",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
-    "revision": "8f465ffb9cef3105da0e",
-    "url": "/budget-manager/static/js/main.aef0a8e6.chunk.js"
+    "revision": "f93f3afdc65f6bc1b7ce",
+    "url": "/budget-manager/static/js/main.0a3f01da.chunk.js"
   },
   {
     "revision": "2cfec6c1b527f7fbca5e77263b0363aa",
@@ -196,7 +196,7 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/css/2.bfb35486.chunk.css"
   },
   {
-    "revision": "233b7c15011f743b892b9f1970c1a6c4",
+    "revision": "cac6cf724af9d1c1254ae2cefc16ad0a",
     "url": "/budget-manager/index.html"
   }
 ];
