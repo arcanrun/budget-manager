@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/budget-manager/static/media/fa-regular-400.65b286af.ttf"
   },
   {
-    "revision": "44d537ab79f921fde5a28b2c1636f397",
-    "url": "/budget-manager/static/media/fa-solid-900.44d537ab.woff2"
-  },
-  {
     "revision": "cccc9d29470e879e40eb70249d9a2705",
     "url": "/budget-manager/static/media/fa-brands-400.cccc9d29.woff2"
+  },
+  {
+    "revision": "44d537ab79f921fde5a28b2c1636f397",
+    "url": "/budget-manager/static/media/fa-solid-900.44d537ab.woff2"
   },
   {
     "revision": "c5e0f14f88a828261ba01558ce2bf26f",
